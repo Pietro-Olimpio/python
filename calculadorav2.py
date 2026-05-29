@@ -21,9 +21,13 @@ def multiplicar(n1, n2):
 
 def dividir(n1, n2):
     print("Vamos dividir!")
-    resultado = n1 / n2
-    print("O resultado é", resultado)
-
+    
+    if n2 ==0:
+        print("NÃO da pra dividir por zero seu burro")
+    
+    else:  
+        resultado = n1/n2
+        print("O resultado é",resultado)
 
 #while para sempre rodar o programa
 while True:
