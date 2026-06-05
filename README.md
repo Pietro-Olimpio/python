@@ -18,3 +18,4 @@ Sistema de cálculo de reajuste salarial com regras de negócio.
 Calculadora com operações matemáticas básicas.
 - Adição, subtração, multiplicação e divisão
 - Tratamento para divisão por zero
+- Loop até o usuário escolher sair
